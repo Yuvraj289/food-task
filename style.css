@@ -52,7 +52,7 @@
 .img-container {
   /* padding: 150px 50px; */
   width: 50%;
-  background-image: url(/Practise/Task3/food.jpg);
+  background-image: url('./food.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
